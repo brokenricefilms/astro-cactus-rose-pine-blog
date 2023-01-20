@@ -2,3 +2,9 @@
 
 - URL: https://thuanowa.com
 - Design stuff: https://www.figma.com/file/FbRKsNMeVGbF3RgYcaxTxk/thuanowa.com
+
+```js
+pnpm install
+pnpm dev
+pnpm build
+```
