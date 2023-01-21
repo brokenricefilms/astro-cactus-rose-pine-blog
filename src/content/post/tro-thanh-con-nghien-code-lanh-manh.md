@@ -5,7 +5,7 @@ description: "có sức khỏe mới cấm đầu code được, miễn nhiễm 
 tags: ["productive", "healthy"]
 ---
 
-## **BẠN CÓ PHẢI LÀ MỘT CON NGHIỆN?**
+## BẠN CÓ PHẢI LÀ MỘT CON NGHIỆN?
 
 > Nghiện là sự lặp lại liên tục của một hành vi bất chấp hậu quả xấu hoặc sự rối
 > loạn thần kinh để dẫn đến những hành vi như vậy. — wikipedia.com
@@ -18,14 +18,14 @@ Tứ chi, lục phủ ngủ tạng của bạn bị đau nhức lâu ngày khôn
 
 Chào mừng bạn đến động của những con nghiện code 😆
 
-## **VẬY LÀM SAO ĐỂ TRỞ THÀNH MỘT CON NGHIỆN CODE LÀNH MẠNH?**
+## VẬY LÀM SAO ĐỂ TRỞ THÀNH MỘT CON NGHIỆN CODE LÀNH MẠNH?
 
 > Để code trâu bò được thì phải có sức khỏe giống như con trâu bò. — Chụy bảy
 > Thuận
 
 Sức khỏe thường liên quan tới những thói quen, hoạt động hàng ngày của mấy chế.
 
-## **ĐẦU TIÊN GIẤC NGỦ LÀ QUAN TRỌNG NHẤT**
+## ĐẦU TIÊN GIẤC NGỦ LÀ QUAN TRỌNG NHẤT
 
 Có những lần code xuyên đêm, luyện kdrama, anime xuyên đêm
 
@@ -39,7 +39,7 @@ Mấy chế có thể tham khảo cuốn sách:
 
 > why we sleep — Matthew Walker
 
-## **NO FAP**
+## NO FAP
 
 Tháng này là tháng chay tịnh (no nut November)
 
@@ -47,7 +47,7 @@ Ngày thế giới chung tay no fap
 
 Cũng là một dịp tốt để thực thành lối sống chay tịnh 😅
 
-## **POMODORO**
+## POMODORO
 
 Nói chung bạn tập trung code trong một khoảng thời gian rồi đi lòng vùng giản
 gân cốt
@@ -57,7 +57,7 @@ phút.
 
 Thực hiện trong 4 chu kì rồi nghỉ bao lâu theo ý bạn.
 
-## **THIỀN**
+## THIỀN
 
 Tui thấy thiền là một phương thức tịnh tâm khi fix bug
 

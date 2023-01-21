@@ -12,14 +12,14 @@ Tui là Thuận aka chụy 7, sinh viên năm 2 nghành CNTT
 Buổi đàm đạo hôm nay chúng ta sẽ bàn về vimium, làm sao nó giúp chúng ta khai tử
 chuột (touchpad, trackpoint).
 
-## **VIMIUM LÀ CÁI MÉO GÌ?**
+## VIMIUM LÀ CÁI MÉO GÌ?
 
 Nói đơn giản nó là một cái extention cho trình duyệt, sử dụng key map của vim để
 điều kiển trình duyệt.
 
 Nếu anh em thích sài vim thì cái extention này là không thể thiếu.
 
-## **HÀNH TRÌNH ĐẾN VỚI VIMIUM.**
+## HÀNH TRÌNH ĐẾN VỚI VIMIUM.
 
 Thuở mới sơ khai, tui đang mò mẩn cách sài vim
 
@@ -30,7 +30,7 @@ Cái extension này giúp tui khá nhiều trong việc làm quen với key map 
 Nhất là khi anh em mới làm quen với tổ hộp phím h - j - k - l (left - down -
 up - right)
 
-## **XÀI LÀM SAO?**
+## XÀI LÀM SAO?
 
 Cái extension này sài được trên mấy cái trình duyệt chạy trên nhân chromium
 (chrome, brave,...) và firefox cũng có, nhưng theo kinh nghiệm của tui thì sài
@@ -43,7 +43,7 @@ em cài xong thì anh em vô một trang web nào đó rồi anh em bấm tổ h
 shift + / "gõ dấu ?" để nó hiện lên help của vimium anh em quên key binding thì
 xem vimium help của nó cho nó tiện.
 
-## **VIMIUM CÓ GÌ VUI?**
+## VIMIUM CÓ GÌ VUI?
 
 1. khai tử chuột - touchpad: khi anh em sử dụng chỉ bàn phím thì tốc độ lướt web
    với tương tác với web sẽ nhanh hơn rất nhiều. Khi anh em quen có thể áp dụng
@@ -55,7 +55,7 @@ xem vimium help của nó cho nó tiện.
 3. Trở nên cool gầu hơn: cũng giống như vim, anh em sài bàn phím gõ liên tục mà
    không sài chuột thì sẽ giống với mấy cảnh trong mấy phim hacker các thể loại.
 
-## **NHỮNG ĐIỀU HẠN CHẾ**
+## NHỮNG ĐIỀU HẠN CHẾ
 
 Do nó chỉ là một cái extention nên còn nhiều hạn chế trong hiệu năng với khả
 năng khả thi của nó.

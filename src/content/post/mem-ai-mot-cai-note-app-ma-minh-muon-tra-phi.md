@@ -7,7 +7,7 @@ tags: ["productive", "note-taking"]
 
 giải quyết được vấn đề với việc viết note
 
-tại sao chúng ta lại viết note?
+## tại sao chúng ta lại viết note?
 
 cần ghi nhớ thông tin.
 
@@ -33,7 +33,7 @@ này liên kết phát triển được với kiến thức và thông tin mà m
 
 và viết note để lưu lại thông tin mà tui làm biến nhớ, nhưng có lúc cần phải nhớ
 
-**okay, vậy mem.ai giải quyết được gì?**
+## okay, vậy mem.ai giải quyết được gì?
 
 note một cách làm biến, dễ nhất trên laptop mà mình đã thử, tính tới thời điểm
 hiện tải, chỉ cần chuyển sang app, gõ là okay không cần phím tắt để tạo mới
@@ -44,7 +44,7 @@ là được và cây bút ở đây là cái bàn phím switch sang app gõ m�
 còn việc build system để tối ưu hóa những cái note như thể nào thì để mem lo,
 việc của mình chỉ cần note thôi
 
-vậy mem AI ở đây làm cái méo gì?
+## vậy mem AI ở đây làm cái méo gì?
 
 - cũng giống như các sàn thường mại điện tử, ads của google, rồi youtube,tiktok
   suggest các thể loại

@@ -30,7 +30,7 @@ cạn lời.
 Trải qua khổ ải 1 tháng trời thì tui cũng quen với việc xài linux luôn, rồi tình
 yêu với em ấy bắt đầu.
 
-Ý cái title là open-source mà bạn?
+## Ý cái title là open-source mà bạn?
 
 Ahihi thì tình yêu nó đến với một dòng điện hàng triệu won từ trên trời rơi
 xuống, linux cùng với open-source đến một lúc luôn
@@ -38,7 +38,7 @@ xuống, linux cùng với open-source đến một lúc luôn
 Qua thời gian tình đầu thắm đậm rồi kiểu ngán cơm nhà tui đi ăn phở, gặp bé
 terminal rồi từ đó ẻm thành người yêu thứ 2 của tui. Tui thích harem lém. ahihi
 
-Rồi kiểu config các thể loại rồi rồi rồi sau nữa?
+## Rồi kiểu config các thể loại rồi rồi rồi sau nữa?
 
 Tui kiểu thích khoe bạn gái các kiểu nên kiếm cái chỗ để khoe, nên tui đi gặp
 chị Google hỏi chổ để khoe bạn gái thì chụy chỉ tui đến với bé mèo kiu te phô

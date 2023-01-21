@@ -5,7 +5,7 @@ description: "linux setup in 2021, titling windows manager with gnome"
 tags: ["linux"]
 ---
 
-**hệ điều hành**
+## hệ điều hành
 
 - Tui xài Pop!\_OS 21.04 (nó giống như là một bản mod lại của ubuntu của
   system76, hỗ trợ nhiều thứ hay ho hơn)
@@ -30,7 +30,7 @@ tags: ["linux"]
   debian base chẳng hạn, nhưng mà update version mới nhất cũng có cái hại là sản
   sinh ra nhiều lỗi vặt, tui fix mệt quá nên quay lại debian base luôn cho lành.
 
-**Cái chỗ để code các thể loại**
+## Cái chỗ để code các thể loại
 
 - Tui dùng nvim + tmux + kitty terminal (nó render mượt hơn, và hỗ trợ mấy cái
   ligatures, chừng nào thằng alacritty hỗ trợ tính năng đó thì tui chuyển sang
@@ -43,7 +43,7 @@ tags: ["linux"]
 - anh em nào thích xem tui config các thể loại thì vô repo dotfiles tui coi thử:
   <https://github.com/thuanOwa/dotfiles>
 
-**VIMer Philosophy**
+## VIMer Philosophy
 
 - chủ yếu tui config các thể loại sao mà dùng chuột ích nhất có thể.
 - tui tạo 10 cái workplace (tui dùng alt + 1,2,...9,0 'tui không dùng cái phím
@@ -74,7 +74,7 @@ tags: ["linux"]
   là nó phải dark hết, tui tui viết func `light` `dark`, trên terminal để nó tự
   đổi theme nvim, terminal, bat,...
 
-**web browser setup**
+## web browser setup
 
 - tui dùng Surfingkeys để lướt web mà không cần dùng chuột, kiểu VIMer :D, mà
   xài mấy cái app design như figma chẳng hạn thì vẫn phải dùng chuột :D
@@ -115,7 +115,7 @@ anh em có thể xem cái screencast tui làm cái blog của tui, để xem qua
 setup của tui (video từ tháng 3/2021, nên setup có hơi outdated một chút nha):
 <https://www.youtube.com/watch?v=cUJ_PjfW2SE>
 
-**điện thoại**
+## điện thoại
 
 - Trên điện thoại tui xài brave browser luôn, chủ yếu để coi youtube, phim hàn
   xẻng, anime các thể loại mà không bị quảng cáo, mấy ông nên vô cái cái filter

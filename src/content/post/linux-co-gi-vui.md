@@ -13,7 +13,7 @@ Thì mình sẽ chia sẻ những trải nghiệm phê pha và nhứt não của
 
 Mục đính chính của bài viết này nhằm lôi kéo mọi người xài linux chung cho vui.
 
-### **CƠ DUYÊN NÀO MÀ TUI ĐẾN VỚI LINUX?**
+### CƠ DUYÊN NÀO MÀ TUI ĐẾN VỚI LINUX?
 
 Sau một khoảng thời gian debloat windows các thể loại mà méo có thể chạy mượt,
 ngon lành trên ông cpu i5 đời thứ 2.
@@ -22,9 +22,9 @@ Chụy 7 đã googling cách biến cái máy tính cùi mía của mình chạy
 
 Và từ đó chụy 7 đã đi vào động linux.
 
-### **LINUX CÓ NHỮNG VẤN ĐỀ NHỨT NÃO NÀO CHO NOOB, CÁCH GIẢI QUYẾT?**
+### LINUX CÓ NHỮNG VẤN ĐỀ NHỨT NÃO NÀO CHO NOOB, CÁCH GIẢI QUYẾT?
 
-**1. Microsoft office**
+#### 1. Microsoft office
 
 Mới chuyển từ windows qua đây là vấn đề đầu tiên mình gặp phải.
 
@@ -36,7 +36,7 @@ Cách giải quyết:
   khảo dùng cái ứng dụng giả lập wine, hay lên trình duyệt sài microsoft office
   online cũng ok.
 
-**2. Gõ tiếng Việt.**
+#### 2. Gõ tiếng Việt.
 
 Mặt định thì linux không có bộ gõ tiếng việt kiểu gõ theo vni, hay telex.
 
@@ -44,7 +44,7 @@ Mới ban đầu mình cài và sử dụng ibus-unikey gõ, nhưng sau khoảng
 thì có những bug méo thể chấp nhận được nên mình chuyển
 sang [ibus-bamboo](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FBambooEngine%2Fibus-bamboo%3Ffbclid%3DIwAR1pBJh-TRXczFoXoph62kLJKBmdiiJVRluoBQVik2NUVDwXvL7JL2hAYmY&h=AT1VcwCkj1vnZ884iiQAcP9a_tDkJg5zzWILHwcnzWYSxx_Ply3gjQnXEupeP4QCUCKZc2Uf_7saHai5Lw7T7MaR2E-R-5Y_55UJ7xDz8OyNKCA84GKrBQ44sgwg77l-s3eY0qzFSBNc&__tn__=-UK-R&c[0]=AT0YHdPqaQRW0kiGjDgz63H3_XiASlF7B52lzY-69yb3SjtGTj8r1i8ubC8946V44tK-dKZr03RpHBKjLt9RUQGF9pGsHiId3ptn2Rx1inhYuwUTmuXDEGurZqShOnVRZNpCuWzksV-gKeEhx6kIWvwPgwuFZ41jEfrV42yLzckSrKTrM3TfZ4DCKs9cP3ezIv3cMfO58E_EXdTrQ76z)
 
-**3. Linux thì chơi game kiểu nào.**
+#### 3. Linux thì chơi game kiểu nào.
 
 Linux hiện tại chơi game cũng được nhưng không có support tận răng như windows.
 
@@ -55,7 +55,7 @@ ra cách giải quyết.
 
 Google muôn năm
 
-### **LINUX CÓ GÌ VUI?**
+### LINUX CÓ GÌ VUI?
 
 1. Cộng đồng linux: nghịch phá, support nhau, các thể loại tư tưởng văn hóa lập
    trình cà kịa nhau các thể loại, nói chung là vui.
@@ -67,7 +67,7 @@ Google muôn năm
    luôn thì thôi chu cha mẹ ơi nó ngầu y chang trong phim hacker các thể loại.
 5. stuff.....
 
-### **MỚI BẮT ĐẦU THÌ CHỌN LINUX DISTRO NÀO ĐÂY?**
+### MỚI BẮT ĐẦU THÌ CHỌN LINUX DISTRO NÀO ĐÂY?
 
 Sao bao lần thử nghiệm nhiều linux distro nhứt đầu với vui vẻ thì mình rút ra
 kết luận.
@@ -78,7 +78,7 @@ Gợi ý của mình là cứ chọn một cái mà nhiều người xài suppor
 (ubuntu, fedora, manjaro,...), khi xài quen rồi thì bản tính thích nghịch ngợm
 trong người nổi lên thì cài mấy cái distro khác phá phách các thể loại.
 
-**TÓM CÁI VÁY LẠI**
+### TÓM CÁI VÁY LẠI
 
 thì khi xài linux thì thời gian nghịch của mình nhiều hơn thời gian code
 
