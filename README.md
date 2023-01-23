@@ -4,6 +4,7 @@
 - Design stuff: https://www.figma.com/file/FbRKsNMeVGbF3RgYcaxTxk/thuanowa.com
 
 ```js
+npm install -g pnpm
 pnpm install
 pnpm dev
 pnpm build
