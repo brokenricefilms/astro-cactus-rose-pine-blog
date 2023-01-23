@@ -67,9 +67,9 @@ thì có thể ghé qua nha. Tui cũng có thành lập một cái nơi trên gi
 đồng chí tụi mình phát triển, thảo luận,... opensource mấy chế có hứng thú có
 thể ghé qua nha.
 
-**Ref:**
+## Ref
 
-- Github của tui:
+- GitHub của tui:
   [http://github.com/thuanOwa](http://github.com/thuanOwa)
 - Đọc thêm mấy cái xàm xí của tui:
   [https://thuanOwa.github.io](https://thuanOwa.github.io)

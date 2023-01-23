@@ -148,6 +148,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"projects.md": {
+  id: "projects.md",
+  slug: "projects",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "setup-luot-web-tinh-tam-trong-internet-nhieu-shit.md": {
   id: "setup-luot-web-tinh-tam-trong-internet-nhieu-shit.md",
   slug: "setup-luot-web-tinh-tam-trong-internet-nhieu-shit",

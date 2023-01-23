@@ -24,6 +24,10 @@
 			"language": "markdown",
 			"scheme": "file",
 			"pattern": "src/content/post/uncopyright.md"
+		},
+		{
+			"language": "markdown",
+			"scheme": "file"
 		}
 	]
 }
