@@ -9,14 +9,14 @@ tags: ["project"]
 
 [Source code](https://github.com/thuanowa/thuanowa.com)
 
-![](/public/thuanowa.com_.png)
+<img src="/thuanowa.com_.png"/>
 
 - [Astro](https://astro.build/), [Astro Theme Cactus](https://github.com/chrismwilliams/astro-theme-cactus), deploy on [Netlify](netlify.com)
 - Easy to maintain, highly customizable
 
 ## From Design to Website
 
-![](/public/four-card-feature-section.png)
+<img src="/four-card-feature-section.png"/>
 
 **Four card feature section**
 
@@ -36,7 +36,7 @@ tags: ["project"]
 
 [Preview site](https://thuanowablog.deno.dev/) | [Source code](https://github.com/thuanowa/deno_blog)
 
-![](/public/thuanowablog.deno.dev_.png)
+<img src="/thuanowablog.deno.dev_.png" />
 
 - [Deno blog](https://github.com/denoland/deno_blog), [Deno deploy](https://deno.com/deploy)
 - Easy to maintain
@@ -45,7 +45,7 @@ tags: ["project"]
 
 [Design](https://figma.com/community/file/982136815362321966) | [Source code](https://github.com/OngDev/client)
 
-![](/public/live_chat.png)
+<img src="/live_chat.png"/>
 
 - Designing interface, developing the front-end web
 - Working with Vue.js, YouTube Data API
@@ -53,7 +53,7 @@ tags: ["project"]
 
 ## Course manager
 
-![](/public/course_storage.png)
+<img src="/course_storage.png"/>
 
 [Document](https://github.com/OngDev/course-manager/blob/master/docs/style-guide.md) | [Design](https://figma.com/community/file/978217394826446327)
 
