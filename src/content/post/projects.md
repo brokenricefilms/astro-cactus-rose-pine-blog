@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 publishDate: "23 January 2023"
-description: "Creator a person that brings something into existence"
+description: "I'm in the process of making the internet more beautiful and blazingly fast."
 tags: ["project"]
 ---
 
