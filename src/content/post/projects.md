@@ -45,11 +45,15 @@ tags: ["project"]
 
 [Design](https://figma.com/community/file/982136815362321966) | [Source code](https://github.com/OngDev/client)
 
+![](/public/live_chat.png)
+
 - Designing interface, developing the front-end web
 - Working with Vue.js, YouTube Data API
 - Collaboration remotely with another designer, dev
 
 ## Course manager
+
+![](/public/course_storage.png)
 
 [Document](https://github.com/OngDev/course-manager/blob/master/docs/style-guide.md) | [Design](https://figma.com/community/file/978217394826446327)
 
