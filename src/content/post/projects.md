@@ -62,6 +62,14 @@ tags: ["project"]
 - Working with Vue.js, YouTube Data API
 - Collaboration remotely with another designer, dev
 
+## Safe shortened link
+
+[Source code](https://github.com/OngDev/client)
+
+- Why it's safe? Links are stored in file format, if don't have permission to access the repo, you can not create shortened link
+- Using [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
+- Demo link: [l.thuanowa.com/resume](https://l.thuanowa.com/resume)
+
 ## Course manager
 
 <img src="/course_storage.png"/>
