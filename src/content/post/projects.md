@@ -32,6 +32,17 @@ tags: ["project"]
 
 - Simple config improves my Developer Experience
 
+## Rose Pine Surfingkeys
+
+[Source code](https://github.com/rose-pine/surfingkeys)
+
+<p align="center">
+    <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
+</p>
+
+- Custom theme Rose Pine for Surfingkeys
+- Province 3 different palette color
+
 ## Deno blog
 
 [Preview site](https://thuanowablog.deno.dev/) | [Source code](https://github.com/thuanowa/deno_blog)
