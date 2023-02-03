@@ -1,6 +1,6 @@
 const siteMeta = {
 	title: "thuanowa",
-	description: "Thuan Pham aka thuanowa personal website",
+	description: "Thuan Pham aka thuanowa website",
 	lang: "en-US",
 	ogLocale: "en_US",
 	githubUrl: "https://github.com/thuanowa",
