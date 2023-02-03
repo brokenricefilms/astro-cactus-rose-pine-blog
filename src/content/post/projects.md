@@ -26,12 +26,6 @@ tags: ["project"]
   - CSS custom properties, flexbox
   - Mobile-first workflow
 
-## dotfiles
-
-[Demo on Daily working vlog](https://www.youtube.com/playlist?list=PLcazFfFZIFPld0UvU7OxYl6ayyBJ6MvY7) | [Source code](https://github.com/thuanowa/dotfiles)
-
-- Simple config improves my Developer Experience
-
 ## Rose Pine Surfingkeys
 
 [Source code](https://github.com/rose-pine/surfingkeys)
@@ -78,6 +72,12 @@ tags: ["project"]
 
 - Design from a template on the Figma and design new modules for requirements
 - Work remotely with the core dev team and write the design documentation
+
+## dotfiles
+
+[Demo on Daily working vlog](https://www.youtube.com/playlist?list=PLcazFfFZIFPld0UvU7OxYl6ayyBJ6MvY7) | [Source code](https://github.com/thuanowa/dotfiles)
+
+- Simple config improves my Developer Experience
 
 ## For more
 
