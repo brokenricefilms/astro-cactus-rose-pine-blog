@@ -1,7 +1,7 @@
 ---
 title: "CSS: Sizing Units"
 publishDate: "03 February 2023"
-description: "It's a note for me. Taking from something I want to research/learn. The note will use English cuz I want flunet in this language"
+description: "It's a note for me. Taking from something I want to research/learn. The note will use English cuz I want fluent in this language"
 tags: ["note", "CSS"]
 ---
 
@@ -15,7 +15,7 @@ tags: ["note", "CSS"]
 ## rem
 
 - using the default font size provide by browser
-- this can be change by website code // TODO: how?
+- this can be changed by website code // TODO: how?
 
 ## em
 
@@ -24,7 +24,7 @@ tags: ["note", "CSS"]
 
 ## em vs rem
 
-- `em` can change the value in diffrent div tag inside in or some place in code
+- `em` can change the value in different div tag inside in or some place in code
 - `rem` can't change by set by the element in code
 - em can be conflit if have many sizing in inside or outside
 
