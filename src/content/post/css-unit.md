@@ -9,7 +9,7 @@ tags: ["note", "CSS"]
 
 ## px
 
-- pixel in monitor like 1080x1920 meaning 1080 * 1920 = 2073600 pixel 
+- pixel in monitor like 1080x1920 meaning 1080 * 1920 = 2073600 pixel
 - default font size in browser is 16px
 
 ## rem
@@ -19,7 +19,7 @@ tags: ["note", "CSS"]
 
 ## em
 
-- use the value in paragraph, div, in class,... 
+- use the value in paragraph, div, in class,...
 - like the div tag set font size is 36px
 
 ## em vs rem
@@ -27,14 +27,14 @@ tags: ["note", "CSS"]
 - `em` can change the value in diffrent div tag inside in or some place in code
 - `rem` can't change by set by the element in code
 - em can be conflit if have many sizing in inside or outside
- 
+
 ## vh
 
 - the view of height how many percent eg. 50% of window
 
 ```css
 .box {
-    height: 5vh   
+    height: 5vh
 }
 ```
 
@@ -44,7 +44,7 @@ tags: ["note", "CSS"]
 
 ```css
 .box {
-    width: 5vw   
+    width: 5vw
 }
 ```
 
@@ -55,7 +55,7 @@ tags: ["note", "CSS"]
 - read: https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/
 
 > repo -> ongdev/client -> livechat.vue
-> TODO: can use ch 
+// TODO: can use ch
 ```css
     .message-text {
       color: var(--message-text-color);
