@@ -30,4 +30,9 @@ export default defineConfig({
 		sitemap(),
 		prefetch(),
 	],
+	vite: {
+		optimizeDeps: {
+			exclude: ["@resvg/resvg-js"],
+		},
+	},
 });

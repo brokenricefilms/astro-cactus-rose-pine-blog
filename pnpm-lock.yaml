@@ -18,6 +18,7 @@ specifiers:
   '@typescript-eslint/parser': ^5.48.0
   astro: 2.0.2
   astro-eslint-parser: ^0.11.0
+  astro-google-analytics: ^1.0.3
   autoprefixer: ^10.4.13
   eslint: ^8.32.0
   eslint-config-prettier: ^8.6.0
@@ -44,6 +45,7 @@ dependencies:
   '@astrojs/prefetch': 0.1.1
   '@astrojs/rss': 2.0.0
   astro: 2.0.2
+  astro-google-analytics: 1.0.3
   satori: 0.1.2
   satori-html: 0.3.2
   sharp: 0.31.3
@@ -1456,6 +1458,10 @@ packages:
     transitivePeerDependencies:
       - supports-color
     dev: true
+
+  /astro-google-analytics/1.0.3:
+    resolution: {integrity: sha512-5bD7jA15yxVaUFVVEFG6KKMphYJ4AKP4+HSqCVBpTBnqh8LL0giTdAHpG9KJs3JaFbGQUTWP5Pqt8+twz7f55Q==}
+    dev: false
 
   /astro/2.0.2:
     resolution: {integrity: sha512-47N1jLWNxSri7kWfIfgcEnQJZWTvd0gXhNC3P2ZHiiurl4nOxFC5ULsW5MDDTjTzQ1S7y1RoaL9XxYm+Rury7w==}
