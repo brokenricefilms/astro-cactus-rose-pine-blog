@@ -7,13 +7,10 @@ import prefetch from "@astrojs/prefetch";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://www.thuanowa.com",
-	experimental: {
-		contentCollections: true,
-	},
+	site: "https://www.astro-theme-cactus.netlify.app/",
 	markdown: {
 		shikiConfig: {
-			theme: "github-light",
+			theme: "dracula",
 			wrap: true,
 		},
 	},
@@ -30,4 +27,9 @@ export default defineConfig({
 		sitemap(),
 		prefetch(),
 	],
+	vite: {
+		optimizeDeps: {
+			exclude: ["@resvg/resvg-js"],
+		},
+	},
 });
