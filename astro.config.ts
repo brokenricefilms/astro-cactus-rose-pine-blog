@@ -13,7 +13,7 @@ export default defineConfig({
 	},
 	markdown: {
 		shikiConfig: {
-			theme: "github-light",
+			theme: "rose-pine-dawn",
 			wrap: true,
 		},
 	},
