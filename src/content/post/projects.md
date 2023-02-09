@@ -1,9 +1,15 @@
 ---
 title: "Projects"
 publishDate: "23 January 2023"
-description: "I'm in the process of making the internet more beautiful and blazingly fast."
+description: "I'm making the internet more beautiful and blazingly fast"
 tags: ["project"]
 ---
+
+## "When will i die" browser extension
+
+- New tab browser extension with countdown day and wish list
+- Design all UI, use Plasmo framework for development
+- Project page: https://github.com/when-will-i-die/when-will-i-die
 
 ## thuanowa.com
 
@@ -22,9 +28,9 @@ tags: ["project"]
 
 [Preview site](https://from-design-to-website.github.io/four-card-feature-section/) | [Source code](https://github.com/from-design-to-website/four-card-feature-section)
 
-  - HTML, CSS
-  - CSS custom properties, flexbox
-  - Mobile-first workflow
+- HTML, CSS
+- CSS custom properties, flexbox
+- Mobile-first workflow
 
 ## Rose Pine Surfingkeys
 
