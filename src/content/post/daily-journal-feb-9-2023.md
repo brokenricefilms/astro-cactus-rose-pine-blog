@@ -1,0 +1,13 @@
+---
+title: "Journal: Feb 8, 2023"
+publishDate: "08 February 2023"
+description: "My daily journal, What happen in my life or I want to do"
+tags: ["journal"]
+---
+
+- Write_good lint
+- Gnome sync setting extension: https://github.com/oae/gnome-shell-extensions-sync
+- Ông Dev comeback https://www.youtube.com/watch?v=LtknTCXmFy
+- Next day:
+  - start develop chrome extension
+- Nothing to say? Go out!!! 28 Km walk?
