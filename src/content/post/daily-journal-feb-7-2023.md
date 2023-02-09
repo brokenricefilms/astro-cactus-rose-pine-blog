@@ -1,7 +1,7 @@
 ---
 title: "Journal: Feb 7, 2023"
 publishDate: "07 February 2023"
-description: "My daily journal, What happen in my life or just things I want to do"
+description: "My daily journal, What happen in my life or I want to do"
 tags: ["journal"]
 ---
 
@@ -11,7 +11,7 @@ tags: ["journal"]
 - https://youtu.be/pKtIrQsbKnQ
 - it's can moving cursor around or doing crazy design app like figma
 - i have some manga to read
-- in the next few day i will make the chrome tab new extension: https://github.com/when-will-i-die
+- in the next day i will make the chrome tab new extension: https://github.com/when-will-i-die
 - that's it
 
 **Best wish**

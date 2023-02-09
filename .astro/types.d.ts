@@ -119,6 +119,20 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"daily-journal-feb-7-2023.md": {
+  id: "daily-journal-feb-7-2023.md",
+  slug: "daily-journal-feb-7-2023",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
+"daily-journal-feb-8-2023.md": {
+  id: "daily-journal-feb-8-2023.md",
+  slug: "daily-journal-feb-8-2023",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "github-co-gi-vui.md": {
   id: "github-co-gi-vui.md",
   slug: "github-co-gi-vui",
