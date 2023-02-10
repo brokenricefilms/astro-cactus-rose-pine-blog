@@ -2,7 +2,7 @@
 title: "Làm sao lập trình một blog để chém gió?"
 publishDate: "15 March 2021"
 description: "xài github page + jekkyll, không tốn chi phí di trì"
-tags: ["programming"]
+tags: ["programming", "Vietnamses"]
 ---
 
 Hello lại là chụy bảy đây,

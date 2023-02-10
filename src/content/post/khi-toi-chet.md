@@ -2,7 +2,7 @@
 title: "Khi tôi chết, di nguyện, di chúc"
 publishDate: "26 November 2022"
 description: "when i die, English will be update later IF i don’t lazy"
-tags: ["life"]
+tags: ["life", "Vietnamses"]
 ---
 
 1. Tài sản, nếu tôi còn người thân hàng thừa kế thứ nhất cần tài sản của tôi thì theo cứ theo luật chia tài sản cho những người hàng thừa kế thứ nhất. Nếu những người hàng thừa kế thứ nhất không cần tài sản của tôi thì tôi sẽ quyên góp toàn bộ tài sản của bản thân cho một số quỹ đầu tư cho nhân tài, quỹ về cứu trợ lương thực cho những trẻ em có nguy cơ chết vì thiếu lương thực. nói chung quy quyên góp tiền cho thế giới đất nước tạo ra nhiều thiên tài nhất có thể để họ quay ngược lại dùng cái đầu của mình giải quyết những vấn đề hiện hữu.

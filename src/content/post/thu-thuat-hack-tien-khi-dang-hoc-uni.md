@@ -2,7 +2,7 @@
 title: "Thủ thuật Hack Tiền khi đang học uni"
 publishDate: "14 October 2020"
 description: "github student pack, những lợi ích cảu nó mang lại"
-tags: ["money", "university", "github"]
+tags: ["money", "university", "github", "Vietnamses"]
 ---
 
 Gần đây mình mò trên mạng thì thấy gói hỗ trợ **Github Student Pack (Free).**

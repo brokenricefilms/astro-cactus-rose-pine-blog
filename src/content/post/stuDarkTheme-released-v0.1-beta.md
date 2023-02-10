@@ -2,7 +2,7 @@
 title: "stuDarkTheme released v0.1-beta"
 publishDate: "3 November 2020"
 description: "bản released này có gì vui? một cái custom theme có web trường fancy hơn"
-tags: ["project"]
+tags: ["project", "Vietnamses"]
 ---
 
 **Link:

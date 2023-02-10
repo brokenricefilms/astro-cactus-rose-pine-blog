@@ -2,7 +2,7 @@
 title: "Làm github profile nhìn điệu đà hơn."
 publishDate: "26 September 2020"
 description: "hướng dẫn về chức năng mới của github, có thể làm một số thứ hay ho"
-tags: ["github"]
+tags: ["github", "Vietnamses"]
 ---
 
 😁 Yo! khoảng 2 tháng trước thì github cho ra mắt tính năng mới (github profile

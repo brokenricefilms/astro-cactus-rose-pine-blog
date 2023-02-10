@@ -2,7 +2,7 @@
 title: "Chặng đường đến đến với lập trình"
 publishDate: "19 April 2021"
 description: "làm thế méo nào để học nó? chỉ là buổi chém gió thường niên"
-tags: ["programming"]
+tags: ["programming", "Vietnamese"]
 ---
 
 Hello bà con,

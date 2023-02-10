@@ -2,7 +2,7 @@
 title: "Open-source là cái méo gì?"
 publishDate: "29 April 2021"
 description: "có gì vui? từ trải nghiệm của một con nghiện code cùi bắp"
-tags: ["github", "opensource"]
+tags: ["github", "opensource", "Vietnamses"]
 ---
 
 Hello, bà con.

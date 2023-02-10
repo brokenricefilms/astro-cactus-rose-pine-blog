@@ -2,7 +2,7 @@
 title: "Tại sao light theme mới là chân ái?"
 publishDate: "22 May 2022"
 description: "được viết bởi con nghiện code sống trong ánh sáng ngặp trời phòng"
-tags: ["heathy", "productive"]
+tags: ["heathy", "productive", "Vietnamses"]
 ---
 
 Chuyện là hồi tối hôm trước vui vui thử đổi hết sang dark theme chơi.
@@ -45,7 +45,7 @@ xài light theme quen rồi có xem mấy trang web có backgroud tối thì cũ
 thường không có bị trường hợp dark theme user mở phải nguyên đống ánh sáng từ
 thiên đường đạp vào trong mặt. Tóm cái quần lại thì light theme user đọc phải
 mấy cái website xài dark background thì okay không bị chối mắt như dark theme
-  đọc phải light theme, sáng thích tối nhưng tối khum thích sáng :D. Còn chuyện
+đọc phải light theme, sáng thích tối nhưng tối khum thích sáng :D. Còn chuyện
 website ứng dụng nói chung xài màu hơi chấm hỏi thì không đề cập tới (fakup)
 
 Nói chung là một ý kiến chủ quan của người xài light theme để code và chứng ám

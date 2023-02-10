@@ -2,7 +2,7 @@
 title: "Journal: Feb 3, 2023"
 publishDate: "03 February 2023"
 description: "My daily journal, What happen in my life or I want to do"
-tags: ["journal"]
+tags: ["journal", "English"]
 ---
 
 - first cycling 4-5 km in 3 months

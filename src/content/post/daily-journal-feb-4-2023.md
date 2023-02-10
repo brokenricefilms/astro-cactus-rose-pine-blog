@@ -2,7 +2,7 @@
 title: "Journal: Feb 4, 2023"
 publishDate: "04 February 2023"
 description: "My daily journal, What happen in my life or I want to do"
-tags: ["journal"]
+tags: ["journal", "English"]
 ---
 
 - I finding some good manga to read

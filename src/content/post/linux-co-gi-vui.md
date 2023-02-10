@@ -2,7 +2,7 @@
 title: "Linux có gì vui?"
 publishDate: "3 October 2020"
 description: "chém gió về việc dùng linux, khi sử dụng ghiền nó trong khoảng 1 năm"
-tags: ["linux"]
+tags: ["linux", "Vietnamses"]
 ---
 
 Hi mình là Thuận, bạn bè còn gọi mình với nickname chụy 7.

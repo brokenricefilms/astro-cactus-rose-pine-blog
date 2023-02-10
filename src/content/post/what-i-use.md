@@ -2,7 +2,7 @@
 title: "What I use?"
 publishDate: "2 February 2023"
 description: "some stuff i current use, when you buy it with link below you can help me pay my water bill"
-tags: ["life"]
+tags: ["life", "English"]
 ---
 
 ## Programming Gear
@@ -33,7 +33,7 @@ tags: ["life"]
 
 #### Rezo F15
 
-![Rezo F15 img]( https://cf.shopee.sg/file/ec7afb5056e9dd6f8f898f184260dda8 )
+![Rezo F15 img](https://cf.shopee.sg/file/ec7afb5056e9dd6f8f898f184260dda8)
 
 **[Buy at Shopee](https://shope.ee/408YcF5CHl)**
 

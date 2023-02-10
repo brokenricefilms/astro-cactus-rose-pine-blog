@@ -2,7 +2,7 @@
 title: "Projects"
 publishDate: "23 January 2023"
 description: "I'm making the internet more beautiful and blazingly fast"
-tags: ["project"]
+tags: ["project", "English"]
 ---
 
 ## "When will i die" browser extension

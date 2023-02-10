@@ -2,7 +2,7 @@
 title: "my note-taking setup"
 publishDate: "17 March 2022"
 description: "super productive note-taking system, app i used in the past"
-tags: ["heathy"]
+tags: ["heathy", "English"]
 ---
 
 ## mind map (currently)

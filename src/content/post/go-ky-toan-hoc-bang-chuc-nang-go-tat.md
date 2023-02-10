@@ -2,7 +2,7 @@
 title: "Gõ ký tự toán học ∑ bằng chức năng gõ tắt"
 publishDate: "11 October 2021"
 description: "ibus bamboo macro trên Linux, hay unikey macro, hay bất cứ ứng dụng gõ nào hỗ trợ macro"
-tags: ["math"]
+tags: ["math", "Vietnamses"]
 ---
 
 Khi tui muốn gõ mấy cái ký tự của toán thì phải lên mạng search cái ký tự của nó
@@ -72,6 +72,7 @@ tui để để dàm đạo hỉ.
 
 [^1]: https://github.com/BambooEngine/ibus-bamboo/ [^2]: http://xahlee.info/
 [^3]:
+
 https://github.com/emacsmirror/xah-math-input/blob/master/xah-math-input.el
 [^4]: http://xahlee.info/M/index.html [^5]:
 https://github.com/thuanOwa/ibus-bamboo-math

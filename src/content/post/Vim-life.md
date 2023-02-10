@@ -2,7 +2,7 @@
 title: "Vim life"
 publishDate: "05 November 2020"
 description: "con đường vào động vim và bắt đầu tôn thờ nó trở thành tôn đồ"
-tags: ["vim"]
+tags: ["vim", "Vietnamese"]
 ---
 
 > Trong bài này mình sẽ không nói về vim là cái méo gì, thoát thế méo nào

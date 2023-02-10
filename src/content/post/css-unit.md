@@ -2,14 +2,14 @@
 title: "CSS: Sizing Units"
 publishDate: "03 February 2023"
 description: "It's a note for me. Taking from something I want to research/learn. The note will use English cuz I want fluent in this language"
-tags: ["note", "CSS"]
+tags: ["note", "CSS", "English"]
 ---
 
 **WIP**
 
 ## px
 
-- pixel in monitor like 1080x1920 meaning 1080 * 1920 = 2073600 pixel
+- pixel in monitor like 1080x1920 meaning 1080 \* 1920 = 2073600 pixel
 - default font size in browser is 16px
 
 ## rem
@@ -34,7 +34,7 @@ tags: ["note", "CSS"]
 
 ```css
 .box {
-    height: 5vh
+	height: 5vh;
 }
 ```
 
@@ -44,7 +44,7 @@ tags: ["note", "CSS"]
 
 ```css
 .box {
-    width: 5vw
+	width: 5vw;
 }
 ```
 
@@ -55,13 +55,14 @@ tags: ["note", "CSS"]
 - read: https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/
 
 > repo -> ongdev/client -> livechat.vue
-// TODO: can use ch
+> // TODO: can use ch
+
 ```css
-    .message-text {
-      color: var(--message-text-color);
-      width: 220px;
-      word-break: break-word;
-    }
+.message-text {
+	color: var(--message-text-color);
+	width: 220px;
+	word-break: break-word;
+}
 ```
 
 ## Ref

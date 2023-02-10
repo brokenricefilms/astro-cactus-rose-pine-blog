@@ -2,7 +2,7 @@
 title: "Journal: Feb 9, 2023"
 publishDate: "09 February 2023"
 description: "My daily journal, What happen in my life or I want to do"
-tags: ["journal"]
+tags: ["journal", "English"]
 ---
 
 - Write_good lint

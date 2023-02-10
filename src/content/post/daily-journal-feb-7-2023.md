@@ -2,7 +2,7 @@
 title: "Journal: Feb 7, 2023"
 publishDate: "07 February 2023"
 description: "My daily journal, What happen in my life or I want to do"
-tags: ["journal"]
+tags: ["journal", "English"]
 ---
 
 - oh gosh, i forgot write journal yesterday

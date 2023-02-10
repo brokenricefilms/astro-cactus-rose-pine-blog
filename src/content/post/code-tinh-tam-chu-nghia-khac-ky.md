@@ -2,7 +2,7 @@
 title: Code tịnh tâm và chủ nghĩa khắc kỉ
 publishDate: "11 November 2020"
 description: "làm thể nào để tránh đập banh máy tính, la hét banh họng"
-tags: ["productive", "philosophy"]
+tags: ["productive", "philosophy", "Vietnamese"]
 ---
 
 Chào mừng bà con đến dự buổi đàm đạo **triết học ứng dụng**

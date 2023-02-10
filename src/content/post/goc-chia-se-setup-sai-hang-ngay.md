@@ -2,7 +2,7 @@
 title: "Gốc chia sẻ setup linux sài hằng ngày"
 publishDate: "20 June 2021"
 description: "linux setup in 2021, titling windows manager with gnome"
-tags: ["linux"]
+tags: ["linux", "Vietnamses"]
 ---
 
 ## hệ điều hành

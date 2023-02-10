@@ -2,7 +2,7 @@
 title: "Uncopyright"
 publishDate: "20 January 2023"
 description: "copyright, license relate to my blog, content stuff"
-tags: []
+tags: ["English"]
 ---
 
 This entire blog, and all my contents, are uncopyrighted.

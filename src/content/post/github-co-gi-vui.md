@@ -2,7 +2,7 @@
 title: "Github có gì vui?"
 publishDate: "16 March 2021"
 description: "đàm đạo về github social media, làm quen với git cli"
-tags: ["github"]
+tags: ["github", "Vietnamses"]
 ---
 
 Xin được bái kiến các sư huynh đài,
