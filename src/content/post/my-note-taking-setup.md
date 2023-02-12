@@ -5,17 +5,18 @@ description: "super productive note-taking system, app i used in the past"
 tags: ["heathy", "English"]
 ---
 
-## mind map (currently)
+## paper + google docs
 
-- youtube search: justin sung
-- google docs
+- Youtube video: https://www.youtube.com/watch?v=sWHoZDqGU48
+- Mind map -> youtube search: justin sung
+- Google docs, single file for note, `todo:` for quick todo list search, sync with my phone
 
-## mem.ai
+## mem.ai (old)
 
 - link to the blog:
   <https://thuanOwa.github.io/posts/mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi/>
 
-## Notion
+## Notion (old)
 
 - Use notion page of course (not indexing to search engine like google, cuz i’m
   poor)
