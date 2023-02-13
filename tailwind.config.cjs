@@ -28,7 +28,7 @@ module.exports = {
 			},
 			fontFamily: {
 				// Add any custom fonts here
-				sans: "fuzzy Bubbles",
+				sans: "Fuzzy Bubbles",
 			},
 			transitionProperty: {
 				height: "height",
