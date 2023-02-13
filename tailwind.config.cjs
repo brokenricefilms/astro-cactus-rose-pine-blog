@@ -28,8 +28,7 @@ module.exports = {
 			},
 			fontFamily: {
 				// Add any custom fonts here
-				sans: [...fontFamily.sans],
-				serif: [...fontFamily.serif],
+				sans: "fuzzy Bubbles",
 			},
 			transitionProperty: {
 				height: "height",
@@ -99,7 +98,7 @@ module.exports = {
 		plugin(function ({ addComponents }) {
 			addComponents({
 				".cactus-link": {
-	"@apply bg-[size:100%_6px] bg-bottom bg-repeat-x": {},
+					"@apply bg-[size:100%_6px] bg-bottom bg-repeat-x": {},
 					backgroundImage:
 						"linear-gradient(transparent,transparent 5px,var(--theme-text) 5px,var(--theme-text))",
 					"&:hover": {
