@@ -224,6 +224,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md": {
+  id: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md",
+  slug: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "setup-luot-web-tinh-tam-trong-internet-nhieu-shit.md": {
   id: "setup-luot-web-tinh-tam-trong-internet-nhieu-shit.md",
   slug: "setup-luot-web-tinh-tam-trong-internet-nhieu-shit",
