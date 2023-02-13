@@ -1,4 +1,5 @@
 const siteMeta = {
+	author: "Thuan Pham",
 	title: "thuanowa",
 	description: "Thuan Pham aka thuanowa website",
 	lang: "en-US",
