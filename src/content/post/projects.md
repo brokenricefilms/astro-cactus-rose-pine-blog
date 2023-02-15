@@ -8,7 +8,7 @@ tags: ["project", "English"]
 ## "When will i die" browser extension
 
 - New tab browser extension with countdown day and wish list
-- Design all UI, use Plasmo framework for development
+- Design entire UI, use Plasmo framework for development
 - Project page: https://github.com/when-will-i-die/when-will-i-die
 
 ## thuanowa.com
