@@ -238,6 +238,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"so-huu.md": {
+  id: "so-huu.md",
+  slug: "so-huu",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "stuDarkTheme-released-v0.1-beta.md": {
   id: "stuDarkTheme-released-v0.1-beta.md",
   slug: "studarktheme-released-v01-beta",
