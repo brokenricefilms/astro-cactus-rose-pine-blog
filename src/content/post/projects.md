@@ -15,8 +15,6 @@ tags: ["project", "English"]
 
 [Source code](https://github.com/thuanowa/thuanowa.com)
 
-<img src="/thuanowa.com_.png"/>
-
 - [Astro](https://astro.build/), [Astro Theme Cactus](https://github.com/chrismwilliams/astro-theme-cactus), deploy on [Netlify](netlify.com)
 - Easy to maintain, highly customizable
 
