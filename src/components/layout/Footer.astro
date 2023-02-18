@@ -1,3 +1,7 @@
+---
+import { MENU_LINKS } from "@/data/constants";
+---
+
 <footer
 	class="mt-auto flex w-full flex-col items-center justify-center gap-y-2 pt-20 pb-4 text-center align-top text-gray-500 sm:flex-row sm:justify-between sm:text-xs"
 >
@@ -14,12 +18,15 @@
 		aria-label="More on this site"
 		class="flex gap-x-2 sm:gap-x-0 sm:divide-x sm:divide-gray-500"
 	>
-		<a
-			href="/posts/projects"
-			class="px-4 py-2 sm:py-0 sm:px-2 sm:hover:text-textColor sm:hover:underline">Projects</a
-		>
-		<a href="/posts" class="px-4 py-2 sm:py-0 sm:px-2 sm:hover:text-textColor sm:hover:underline"
-			>Writing</a
-		>
+		{
+			MENU_LINKS.map((link) => (
+				<a
+					href={link.path}
+					class="px-4 py-2 sm:py-0 sm:px-2 sm:hover:text-textColor sm:hover:underline"
+				>
+					{link.title}
+				</a>
+			))
+		}
 	</nav>
 </footer>
