@@ -43,6 +43,6 @@ Canh bạc này sẽ đi về đâu.
 
 Kết. Lười viết tiếp.
 
-Rồi mod kiu sẽ trải nghiệm thực tế romantic love là gì?
+Rồi Thuận kiu te sẽ trải nghiệm thực tế romantic love là gì?
 
 Hay là vẫn FA đến tuổi 30 trở thành pháp sư hồi quy về quá khứ mua cổ phiếu của FANG trở thành sugar daddy
