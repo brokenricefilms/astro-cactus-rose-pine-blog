@@ -1,7 +1,7 @@
 ---
 title: "What I use?"
 publishDate: "2 February 2023"
-description: "some stuff i current use, when you buy it with link below you can help me pay my water bill"
+description: "When you buy it with link below you can help me pay my water bill"
 tags: ["life", "English"]
 ---
 

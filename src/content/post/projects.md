@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 publishDate: "23 January 2023"
-description: "I'm making the internet more beautiful and blazingly fast"
+description: ""
 tags: ["project", "English"]
 ---
 
