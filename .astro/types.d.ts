@@ -210,6 +210,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"omg-oh-my-girl-2022.md": {
+  id: "omg-oh-my-girl-2022.md",
+  slug: "omg-oh-my-girl-2022",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "open-source-la-cai-meo-gi-co-gi-vui-trai-nghiep-cua-mot-con-nghien-code-cui-bap.md": {
   id: "open-source-la-cai-meo-gi-co-gi-vui-trai-nghiep-cua-mot-con-nghien-code-cui-bap.md",
   slug: "open-source-la-cai-meo-gi-co-gi-vui-trai-nghiep-cua-mot-con-nghien-code-cui-bap",
