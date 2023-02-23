@@ -1,12 +1,12 @@
 const siteMeta = {
-	author: "Thuan Pham",
-	title: "thuanowa",
-	description: "Thuan Pham aka thuanowa website",
-	lang: "en-US",
-	ogLocale: "en_US",
-	githubUrl: "https://github.com/thuanowa",
-	themeColorLight: "#faf4ed",
-	themeColorDark: "#191724",
+	author: "Chris Williams",
+	title: "Astro Theme Cactus",
+	description: "An opinionated starter theme for Astro",
+	lang: "en-GB",
+	ogLocale: "en_GB",
+	githubUrl: "https://github.com/chrismwilliams/astro-theme-cactus",
+	themeColorLight: "#fafafa",
+	themeColorDark: "#1d1f21",
 };
 
 export default siteMeta;

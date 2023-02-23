@@ -1,7 +1,7 @@
 {
-	"name": "thuanowa website",
-	"short_name": "thuanowa",
-	"description": "thuan pham aka thuanowa website",
+	"name": "Astro Theme Cactus Demo",
+	"short_name": "Astro_Cactus",
+	"description": "Starter blog site for Astro",
 	"icons": [
 		{
 			"src": "/192x192.png",
@@ -15,7 +15,7 @@
 		}
 	],
 	"start_url": "/",
-	"background_color": "#faf4ed",
-	"theme_color": "#d7827e",
+	"background_color": "#1d1f21",
+	"theme_color": "#2bbc8a",
 	"display": "standalone"
 }

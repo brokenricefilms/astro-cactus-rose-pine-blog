@@ -18,16 +18,5 @@
 		"astro", // Enable .astro
 		"typescript", // Enable .ts
 		"typescriptreact"
-	],
-	"grammarly.selectors": [
-		{
-			"language": "markdown",
-			"scheme": "file",
-			"pattern": "src/content/post/uncopyright.md"
-		},
-		{
-			"language": "markdown",
-			"scheme": "file"
-		}
 	]
 }
