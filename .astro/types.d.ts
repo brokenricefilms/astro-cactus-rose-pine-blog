@@ -77,6 +77,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"chuyen-sua-switch-khi-khong-co-tool.md": {
+  id: "chuyen-sua-switch-khi-khong-co-tool.md",
+  slug: "chuyen-sua-switch-khi-khong-co-tool",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "code-tinh-tam-chu-nghia-khac-ky.md": {
   id: "code-tinh-tam-chu-nghia-khac-ky.md",
   slug: "code-tinh-tam-chu-nghia-khac-ky",
