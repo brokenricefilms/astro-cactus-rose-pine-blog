@@ -1,7 +1,7 @@
 ---
 title: "Uncopyright"
 publishDate: "20 January 2023"
-description: "copyright, license relate to my blog, content, code"
+description: ""
 tags: ["English"]
 ---
 
