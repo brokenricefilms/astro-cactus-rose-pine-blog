@@ -19,10 +19,6 @@ tags: ["music", "English"]
 
 - https://l.thuanowa.com/music-lil-wuyn
 
-### Sol7
-
-- https://l.thuanowa.com/music-sol7
-
 ### B Ray
 
 - https://l.thuanowa.com/music-b-ray
