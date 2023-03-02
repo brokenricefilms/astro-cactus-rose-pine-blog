@@ -25,7 +25,7 @@ tags: ["music", "English"]
 
 ### B Ray
 
-- https://l.thuanowa.com/music-bray
+- https://l.thuanowa.com/music-b-ray
 
 ### Đen Vâu
 
@@ -33,16 +33,16 @@ tags: ["music", "English"]
 
 ## English
 
-- https://l.thuanowa.com/music-english
+- https://l.thuanowa.com/music-en
 
 ## Tiếng Việt
 
-- https://l.thuanowa.com/music-vietnamese
+- https://l.thuanowa.com/music-vi
 
 ## 한국어
 
-- https://l.thuanowa.com/music-korean
+- https://l.thuanowa.com/music-ko
 
 ## 日本語
 
-- https://l.thuanowa.com/music-japanese
+- https://l.thuanowa.com/music-ja
