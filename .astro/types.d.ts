@@ -210,6 +210,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"music.md": {
+  id: "music.md",
+  slug: "music",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "my-note-taking-setup.md": {
   id: "my-note-taking-setup.md",
   slug: "my-note-taking-setup",
