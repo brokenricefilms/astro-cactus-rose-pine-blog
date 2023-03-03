@@ -2,7 +2,7 @@
 title: "Lập trình trên điện thoại thế méo nào?"
 publishDate: "27 March 2021"
 description: "Android only using termux, có thể sử dụng github.dev aka vscode on web"
-tags: ["programming", "Vietnamses"]
+tags: ["programming", "Vietnamese"]
 ---
 
 Hello bà con,

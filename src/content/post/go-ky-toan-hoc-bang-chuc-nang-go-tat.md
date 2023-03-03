@@ -2,7 +2,7 @@
 title: "Gõ ký tự toán học ∑ bằng chức năng gõ tắt"
 publishDate: "11 October 2021"
 description: "ibus bamboo macro trên Linux, hay unikey macro, hay bất cứ ứng dụng gõ nào hỗ trợ macro"
-tags: ["math", "Vietnamses"]
+tags: ["math", "Vietnamese"]
 ---
 
 Khi tui muốn gõ mấy cái ký tự của toán thì phải lên mạng search cái ký tự của nó

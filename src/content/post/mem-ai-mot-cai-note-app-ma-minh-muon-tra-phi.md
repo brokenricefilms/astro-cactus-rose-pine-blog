@@ -2,7 +2,7 @@
 title: "mem.ai một cái note app mà mình muốn trả phí"
 publishDate: "22 May 2022"
 description: "một blog của một ông nghiện productive với note-taking app power by AI"
-tags: ["productive", "note-taking", "Vietnamses"]
+tags: ["productive", "note-taking", "Vietnamese"]
 ---
 
 giải quyết được vấn đề với việc viết note

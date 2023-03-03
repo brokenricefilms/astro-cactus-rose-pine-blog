@@ -2,7 +2,7 @@
 title: "Vimium bước tới kỷ nguyên khai tử chuột."
 publishDate: "13 December 2020"
 description: "từ terminal đến browser, từ con chiên ngoan đạo vim thần thánh"
-tags: ["vim", "Vietnamses"]
+tags: ["vim", "Vietnamese"]
 ---
 
 Chào bà con,

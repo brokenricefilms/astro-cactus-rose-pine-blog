@@ -2,7 +2,7 @@
 title: "Setup lướt web tịnh tâm trong internet nhiều 💩"
 publishDate: "10 May 2021"
 description: "tạm biệt quảng cáo trên laptop, điện thoại, cho bay màu những thứ khó chịu"
-tags: ["productive", "Vietnamses"]
+tags: ["productive", "Vietnamese"]
 ---
 
 hello, bà con

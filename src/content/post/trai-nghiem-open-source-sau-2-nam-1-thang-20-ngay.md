@@ -2,7 +2,7 @@
 title: "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày"
 publishDate: "18 September 2021"
 description: "chém gió về cộng đồng opensource nói chung, và trải nghiệm của bản thân nói riêng"
-tags: ["github", "open-source", "Vietnamses"]
+tags: ["github", "open-source", "Vietnamese"]
 ---
 
 Yo! mấy đồng chí, lại là Thuận dễ thương đây và một biệt danh hồ cấp 3 lâu rồi
