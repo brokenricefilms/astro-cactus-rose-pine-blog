@@ -11,7 +11,7 @@ interface Props extends IElement {
 const { post, as: Element = "div", withDesc = false } = Astro.props;
 const date = new Date(post.data.publishDate);
 const datetime = date.toISOString();
-const postDate = getFormattedDate(date, { month: "short" });
+const postDate = getFormattedDate(date);
 ---
 
 <time datetime={datetime} class="min-w-[120px] text-gray-500">{postDate}</time>
