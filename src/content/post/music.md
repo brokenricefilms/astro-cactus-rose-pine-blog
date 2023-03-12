@@ -11,6 +11,10 @@ tags: ["music", "English"]
 
 - https://l.thuanowa.com/music-joji
 
+### Two Feet
+
+- https://l.thuanowa.com/music-two-feet
+
 ### Billie Eilish
 
 - https://l.thuanowa.com/music-billie-eilish
