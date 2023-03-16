@@ -19,10 +19,6 @@ tags: ["music", "English"]
 
 - https://l.thuanowa.com/music-billie-eilish
 
-### Lil Wuyn
-
-- https://l.thuanowa.com/music-lil-wuyn
-
 ### B Ray
 
 - https://l.thuanowa.com/music-b-ray
