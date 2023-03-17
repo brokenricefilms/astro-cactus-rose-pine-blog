@@ -294,6 +294,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"tokyo-ghoul.md": {
+  id: "tokyo-ghoul.md",
+  slug: "tokyo-ghoul",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "trai-nghiem-open-source-sau-2-nam-1-thang-20-ngay.md": {
   id: "trai-nghiem-open-source-sau-2-nam-1-thang-20-ngay.md",
   slug: "trai-nghiem-open-source-sau-2-nam-1-thang-20-ngay",
