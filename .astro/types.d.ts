@@ -70,6 +70,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"cai-ac-la-gi-la-nhung-thu-sinh-ra-tu-su-yeu-duoi.md": {
+  id: "cai-ac-la-gi-la-nhung-thu-sinh-ra-tu-su-yeu-duoi.md",
+  slug: "cai-ac-la-gi-la-nhung-thu-sinh-ra-tu-su-yeu-duoi",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no.md": {
   id: "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no.md",
   slug: "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no",
