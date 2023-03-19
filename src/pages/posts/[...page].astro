@@ -43,7 +43,30 @@ const paginationProps = {
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">Posts</h1>
+	<a
+		class="sm:hover:text-accent"
+		href="https://l.thuanowa.com/notes"
+		aria-label="the garden of througs link"
+		target="_blank"
+		rel="noopener noreferrer"
+	>
+		<p class="mb-4 text-base font-bold">The garden of thoughts</p>
+	</a>
+	<p>
+		Aka my notes: <a
+			class="sm:hover:text-accent"
+			href="https://l.thuanowa.com/notes"
+			aria-label="the garden of througs link"
+			target="_blank"
+			rel="noopener noreferrer"
+		>
+			l.thuanowa.com/notes
+		</a>
+	</p>
+
+	<br />
+
+	<h1 class="title mb-6">Blog</h1>
 	<div class="grid gap-y-16 sm:grid-cols-[3fr_1fr] sm:gap-x-8">
 		<section aria-label="Blog post list">
 			<ul class="space-y-8 text-left">
