@@ -70,23 +70,9 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
-"cai-ac-la-gi-la-nhung-thu-sinh-ra-tu-su-yeu-duoi.md": {
-  id: "cai-ac-la-gi-la-nhung-thu-sinh-ra-tu-su-yeu-duoi.md",
-  slug: "cai-ac-la-gi-la-nhung-thu-sinh-ra-tu-su-yeu-duoi",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
 "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no.md": {
   id: "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no.md",
   slug: "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"chuyen-sua-switch-khi-khong-co-tool.md": {
-  id: "chuyen-sua-switch-khi-khong-co-tool.md",
-  slug: "chuyen-sua-switch-khi-khong-co-tool",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
@@ -101,62 +87,6 @@ declare module 'astro:content' {
 "con-duong-tro-thanh-weeaboo-gia-cay.md": {
   id: "con-duong-tro-thanh-weeaboo-gia-cay.md",
   slug: "con-duong-tro-thanh-weeaboo-gia-cay",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"css-unit.md": {
-  id: "css-unit.md",
-  slug: "css-unit",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"daily-journal-feb-3-2023.md": {
-  id: "daily-journal-feb-3-2023.md",
-  slug: "daily-journal-feb-3-2023",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"daily-journal-feb-4-2023.md": {
-  id: "daily-journal-feb-4-2023.md",
-  slug: "daily-journal-feb-4-2023",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"daily-journal-feb-5-2023.md": {
-  id: "daily-journal-feb-5-2023.md",
-  slug: "daily-journal-feb-5-2023",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"daily-journal-feb-7-2023.md": {
-  id: "daily-journal-feb-7-2023.md",
-  slug: "daily-journal-feb-7-2023",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"daily-journal-feb-8-2023.md": {
-  id: "daily-journal-feb-8-2023.md",
-  slug: "daily-journal-feb-8-2023",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"daily-journal-feb-9-2023.md": {
-  id: "daily-journal-feb-9-2023.md",
-  slug: "daily-journal-feb-9-2023",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"github-co-gi-vui.md": {
-  id: "github-co-gi-vui.md",
-  slug: "github-co-gi-vui",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
@@ -178,13 +108,6 @@ declare module 'astro:content' {
 "khi-toi-chet.md": {
   id: "khi-toi-chet.md",
   slug: "khi-toi-chet",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"lam-github-profile-nhin-dieu-da-hon.md": {
-  id: "lam-github-profile-nhin-dieu-da-hon.md",
-  slug: "lam-github-profile-nhin-dieu-da-hon",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
@@ -217,30 +140,9 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
-"mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi.md": {
-  id: "mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi.md",
-  slug: "mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
 "music.md": {
   id: "music.md",
   slug: "music",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"my-note-taking-setup.md": {
-  id: "my-note-taking-setup.md",
-  slug: "my-note-taking-setup",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"omg-oh-my-girl-2022.md": {
-  id: "omg-oh-my-girl-2022.md",
-  slug: "omg-oh-my-girl-2022",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
@@ -273,37 +175,9 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
-"so-huu.md": {
-  id: "so-huu.md",
-  slug: "so-huu",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"stuDarkTheme-released-v0.1-beta.md": {
-  id: "stuDarkTheme-released-v0.1-beta.md",
-  slug: "studarktheme-released-v01-beta",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
 "tai-sao-light-theme-moi-la-chan-ai.md": {
   id: "tai-sao-light-theme-moi-la-chan-ai.md",
   slug: "tai-sao-light-theme-moi-la-chan-ai",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"thu-thuat-hack-tien-khi-dang-hoc-uni.md": {
-  id: "thu-thuat-hack-tien-khi-dang-hoc-uni.md",
-  slug: "thu-thuat-hack-tien-khi-dang-hoc-uni",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"tokyo-ghoul.md": {
-  id: "tokyo-ghoul.md",
-  slug: "tokyo-ghoul",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
