@@ -210,6 +210,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"linux-kho-hanh-xa-tan-chan-troi-gan-ngay-truoc-mat.md": {
+  id: "linux-kho-hanh-xa-tan-chan-troi-gan-ngay-truoc-mat.md",
+  slug: "linux-kho-hanh-xa-tan-chan-troi-gan-ngay-truoc-mat",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi.md": {
   id: "mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi.md",
   slug: "mem-ai-mot-cai-note-app-ma-minh-muon-tra-phi",
