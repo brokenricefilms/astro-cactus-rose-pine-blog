@@ -91,6 +91,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"gear.md": {
+  id: "gear.md",
+  slug: "gear",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "go-ky-toan-hoc-bang-chuc-nang-go-tat.md": {
   id: "go-ky-toan-hoc-bang-chuc-nang-go-tat.md",
   slug: "go-ky-toan-hoc-bang-chuc-nang-go-tat",
@@ -206,13 +213,6 @@ declare module 'astro:content' {
 "vimium-buoc-toi-ky-nguyen-khai-tu-chuot.md": {
   id: "vimium-buoc-toi-ky-nguyen-khai-tu-chuot.md",
   slug: "vimium-buoc-toi-ky-nguyen-khai-tu-chuot",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"what-i-use.md": {
-  id: "what-i-use.md",
-  slug: "what-i-use",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">

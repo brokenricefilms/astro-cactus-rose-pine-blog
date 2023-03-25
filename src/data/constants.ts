@@ -8,8 +8,8 @@ export const MENU_LINKS = [
 		path: "/posts",
 	},
 	{
-		title: "What I use?",
-		path: "/posts/what-i-use",
+		title: "Gear",
+		path: "/posts/gear",
 	},
 ];
 
