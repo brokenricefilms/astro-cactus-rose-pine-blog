@@ -161,13 +161,6 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
-"projects.md": {
-  id: "projects.md",
-  slug: "projects",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
 "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md": {
   id: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md",
   slug: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat",
