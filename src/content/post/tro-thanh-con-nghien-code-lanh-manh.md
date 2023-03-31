@@ -2,7 +2,7 @@
 title: "Trở thành con nghiện code lành mạnh"
 publishDate: "13 November 2020"
 description: "có sức khỏe mới cấm đầu code được, miễn nhiễm sự ảnh hưởng của bug đến tâm trí"
-tags: ["productive", "healthy", "Vietnamese"]
+tags: ["Vietnamese"]
 ---
 
 ## BẠN CÓ PHẢI LÀ MỘT CON NGHIỆN?

@@ -2,7 +2,7 @@
 title: "Gear I use"
 publishDate: "25 Mar 2023"
 description: "When you buy it with link below you can help me pay my water bill"
-tags: ["life", "English"]
+tags: ["English"]
 ---
 
 ![Desk image](https://lh3.googleusercontent.com/pw/AMWts8BJoyq4A2DwmxyCO0oF3N9voU5kbRkVFpk8TlHK5plfdLSxa3qO7mKMCVMCx17LHp4iPiIE4NQLWjxyUeEyDmit-I6QLx_clU7QzLxQBfadKeclQukITFQofRoPDsZwQeEFBXD2it8e9Wa2b8GD0ZGn=w1303-h977-no?authuser=0) 

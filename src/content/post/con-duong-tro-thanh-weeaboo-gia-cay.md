@@ -2,7 +2,7 @@
 title: "Chặng hành trình chở thành weeaboo giả cày"
 publishDate: "8 February 2021"
 description: "anime fanboy đang lan truyền giáo phái đến những con người bình thường trở nên tối cao hơn"
-tags: ["anime", "Vietnamese"]
+tags: ["Vietnamese"]
 ---
 
 ## Weeaboo là cái méo gì?

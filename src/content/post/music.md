@@ -2,7 +2,7 @@
 title: "Music I like"
 publishDate: "1 March 2023"
 description: ""
-tags: ["music", "English"]
+tags: ["English"]
 ---
 
 ## The people who make music
