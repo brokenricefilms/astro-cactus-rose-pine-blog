@@ -63,20 +63,6 @@ declare module 'astro:content' {
 
 	const entryMap: {
 		"post": {
-"Vim-life.md": {
-  id: "Vim-life.md",
-  slug: "vim-life",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no.md": {
-  id: "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no.md",
-  slug: "chang-hanh-trinh-den-voi-lap-trinh-va-lam-the-meo-nao-de-hoc-no",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
 "code-tinh-tam-chu-nghia-khac-ky.md": {
   id: "code-tinh-tam-chu-nghia-khac-ky.md",
   slug: "code-tinh-tam-chu-nghia-khac-ky",
@@ -98,65 +84,9 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
-"go-ky-toan-hoc-bang-chuc-nang-go-tat.md": {
-  id: "go-ky-toan-hoc-bang-chuc-nang-go-tat.md",
-  slug: "go-ky-toan-hoc-bang-chuc-nang-go-tat",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"goc-chia-se-setup-sai-hang-ngay.md": {
-  id: "goc-chia-se-setup-sai-hang-ngay.md",
-  slug: "goc-chia-se-setup-sai-hang-ngay",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"khi-toi-chet.md": {
-  id: "khi-toi-chet.md",
-  slug: "khi-toi-chet",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"lam-sao-lap-trinh-mot-blog-chem-gio.md": {
-  id: "lam-sao-lap-trinh-mot-blog-chem-gio.md",
-  slug: "lam-sao-lap-trinh-mot-blog-chem-gio",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"lap-trinh-tren-dien-thoai-the-meo-nao.md": {
-  id: "lap-trinh-tren-dien-thoai-the-meo-nao.md",
-  slug: "lap-trinh-tren-dien-thoai-the-meo-nao",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"linux-co-gi-vui.md": {
-  id: "linux-co-gi-vui.md",
-  slug: "linux-co-gi-vui",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"linux-kho-hanh-xa-tan-chan-troi-gan-ngay-truoc-mat.md": {
-  id: "linux-kho-hanh-xa-tan-chan-troi-gan-ngay-truoc-mat.md",
-  slug: "linux-kho-hanh-xa-tan-chan-troi-gan-ngay-truoc-mat",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"music.md": {
-  id: "music.md",
-  slug: "music",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"open-source-la-cai-meo-gi-co-gi-vui-trai-nghiep-cua-mot-con-nghien-code-cui-bap.md": {
-  id: "open-source-la-cai-meo-gi-co-gi-vui-trai-nghiep-cua-mot-con-nghien-code-cui-bap.md",
-  slug: "open-source-la-cai-meo-gi-co-gi-vui-trai-nghiep-cua-mot-con-nghien-code-cui-bap",
+"last-will-di-chuc.md": {
+  id: "last-will-di-chuc.md",
+  slug: "last-will-di-chuc",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
@@ -164,13 +94,6 @@ declare module 'astro:content' {
 "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md": {
   id: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md",
   slug: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"setup-luot-web-tinh-tam-trong-internet-nhieu-shit.md": {
-  id: "setup-luot-web-tinh-tam-trong-internet-nhieu-shit.md",
-  slug: "setup-luot-web-tinh-tam-trong-internet-nhieu-shit",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
@@ -199,13 +122,6 @@ declare module 'astro:content' {
 "uncopyright.md": {
   id: "uncopyright.md",
   slug: "uncopyright",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"vimium-buoc-toi-ky-nguyen-khai-tu-chuot.md": {
-  id: "vimium-buoc-toi-ky-nguyen-khai-tu-chuot.md",
-  slug: "vimium-buoc-toi-ky-nguyen-khai-tu-chuot",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">
