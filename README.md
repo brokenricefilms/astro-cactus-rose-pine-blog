@@ -1,6 +1,6 @@
 # My website
 
-- URL: https://thuanowa.com
+- URL: https://astro-cactus-blog.thuanowa.com/
 - Design: https://www.figma.com/file/FbRKsNMeVGbF3RgYcaxTxk/thuanowa.com
 
 ## dev
