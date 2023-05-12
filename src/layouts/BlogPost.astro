@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import "@fontsource/jetbrains-mono";
 
 import BaseLayout from "./Base.astro";
 import BlogHero from "@/components/blog/Hero";
@@ -38,6 +39,11 @@ const { headings } = await post.render();
 </script>
 
 <BaseLayout meta={{ title, description, articleDate, ogImage: socialImage }}>
+	<style>
+		body {
+			font-family: "JetBrains Mono", monospace;
+		}
+	</style>
 	<div class="gap-x-10 lg:flex lg:items-start">
 		{
 			!!headings.length && (
