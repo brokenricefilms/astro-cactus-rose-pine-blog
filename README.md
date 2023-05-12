@@ -1,5 +1,7 @@
 # My website
 
+moving to: <https://github.com/thuanowa/thuan-tiny>
+
 - URL: https://thuanowa.com/
 - Design: https://www.figma.com/file/FbRKsNMeVGbF3RgYcaxTxk/thuanowa.com
 
