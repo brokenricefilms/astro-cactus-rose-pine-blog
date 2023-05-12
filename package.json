@@ -50,6 +50,7 @@
 		"@astrojs/rss": "^2.4.1",
 		"@fontsource/jetbrains-mono": "^4.5.12",
 		"astro": "2.0.2",
+		"astro-compress": "^1.1.42",
 		"astro-google-analytics": "^1.0.3",
 		"satori": "0.4.1",
 		"satori-html": "^0.3.2",
