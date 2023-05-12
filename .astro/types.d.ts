@@ -77,20 +77,6 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
-"gear.md": {
-  id: "gear.md",
-  slug: "gear",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"last-will-di-chuc.md": {
-  id: "last-will-di-chuc.md",
-  slug: "last-will-di-chuc",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
 "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md": {
   id: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md",
   slug: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat",
@@ -115,13 +101,6 @@ declare module 'astro:content' {
 "tro-thanh-con-nghien-code-lanh-manh.md": {
   id: "tro-thanh-con-nghien-code-lanh-manh.md",
   slug: "tro-thanh-con-nghien-code-lanh-manh",
-  body: string,
-  collection: "post",
-  data: InferEntrySchema<"post">
-},
-"uncopyright.md": {
-  id: "uncopyright.md",
-  slug: "uncopyright",
   body: string,
   collection: "post",
   data: InferEntrySchema<"post">

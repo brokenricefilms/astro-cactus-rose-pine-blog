@@ -2,7 +2,7 @@
 title: Chuyện thằng bảo với thằng mật
 publishDate: "10 February 2023"
 description: "Quá khứ sống chui nhủi trên internet và câu chuyện bảo mật?"
-tags: ["Vietnamese"]
+tags: ["Vietnamese", "safety"]
 ---
 
 Mình xài mạng xã hội từ năm giữ năm cấp 2 đến năm khoản cuối cấp 3 do bị nhiễm phim héc cơ, bảo mật dữ liệu, nhân quyền các thể loại nên xóa hết mạng xã hội làm mình ẩn thân trên bề mặt internet.

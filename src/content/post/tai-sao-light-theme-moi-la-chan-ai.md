@@ -2,7 +2,7 @@
 title: "Tại sao light theme mới là chân ái?"
 publishDate: "22 May 2022"
 description: "được viết bởi con nghiện code sống trong ánh sáng ngặp trời phòng"
-tags: ["Vietnamese"]
+tags: ["Vietnamese", "productivity"]
 ---
 
 Chuyện là hồi tối hôm trước vui vui thử đổi hết sang dark theme chơi.
