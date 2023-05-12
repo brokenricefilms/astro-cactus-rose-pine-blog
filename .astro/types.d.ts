@@ -77,6 +77,13 @@ declare module 'astro:content' {
   collection: "post",
   data: InferEntrySchema<"post">
 },
+"music-i-like.md": {
+  id: "music-i-like.md",
+  slug: "music-i-like",
+  body: string,
+  collection: "post",
+  data: InferEntrySchema<"post">
+},
 "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md": {
   id: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat.md",
   slug: "qua-khu-song-chui-ngui-tren-internet-va-cau-truyen-bao-mat",
