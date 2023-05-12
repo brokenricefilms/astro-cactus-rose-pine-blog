@@ -1,6 +1,6 @@
 # My website
 
-- URL: https://astro-cactus-blog.thuanowa.com/
+- URL: https://thuanowa.com/
 - Design: https://www.figma.com/file/FbRKsNMeVGbF3RgYcaxTxk/thuanowa.com
 
 ## dev
@@ -13,6 +13,8 @@ pnpm build
 ```
 
 ## Theme rose pine draw
+
+> Currently source code don't use this theme
 
 ### [global.css](src/styles/global.css)
 
