@@ -4,9 +4,6 @@ import tailwind from "@astrojs/tailwind";
 import image from "@astrojs/image";
 import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
-
-import compress from "astro-compress";
-
 // https://astro.build/config
 export default defineConfig({
   site: "https://www.thuanowa.com",
@@ -25,7 +22,7 @@ export default defineConfig({
     }
   }), image({
     serviceEntryPoint: "@astrojs/image/sharp"
-  }), sitemap(), prefetch(), compress()],
+  }), sitemap(), prefetch(),
   vite: {
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"]
